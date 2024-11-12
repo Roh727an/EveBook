@@ -49,12 +49,12 @@ The app will be available at `http://localhost:3000`.
 
 This project was developed by a team of six members:
 
-- **Rohan Saha**
-- **Arghyadeep Sarkar**
-- **Rittika Sengupta**
-- **Niladri Dey**
-- **Supratim Ghosh**
-- **Apurba Nag**
+- **Rohan Saha** [Backend]
+- **Arghyadeep Sarkar** [Frontend]
+- **Rittika Sengupta** [Frontend]
+- **Niladri Dey** [Design]
+- **Supratim Ghosh** [Documentation]
+- **Apurba Nag** [Documentation]
 
 ---
 
