@@ -1,6 +1,6 @@
 # Evebook 🎟️
 
-Evebook is a **web-based event booking platform** developed as part of a 3rd-year project by a team of five members. The primary goal of Evebook is to help users easily discover, organize, and book events in a seamless manner. With a focus on delivering an interactive and user-friendly experience, Evebook caters to both event organizers and attendees, providing a range of features to simplify the event management process.
+Evebook is a **web-based event booking platform** developed as part of a 3rd-year project by a team of six members. The primary goal of Evebook is to help users easily discover, organize, and book events in a seamless manner. With a focus on delivering an interactive and user-friendly experience, Evebook caters to both event organizers and attendees, providing a range of features to simplify the event management process.
 
 ## Key Features 🌟
 
@@ -47,13 +47,14 @@ The app will be available at `http://localhost:3000`.
 
 ## Contributors 🤝
 
-This project was developed by a team of five members:
+This project was developed by a team of six members:
 
 - **Rohan Saha**
-- **Arghadeep Sarkar**
+- **Arghyadeep Sarkar**
 - **Rittika Sengupta**
+- **Niladri Dey**
+- **Supratim Ghosh**
 - **Apurba Nag**
-- **Supratim **
 
 ---
 
