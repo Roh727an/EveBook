@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+background-color: #fffdf6;
+}
+.card{
+    background-color: #fffdf7;
+    border: none;
+}

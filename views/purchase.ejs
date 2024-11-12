@@ -1,0 +1,52 @@
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css">
+
+<link rel="stylesheet" href="/purchase.css">
+<div class="container">
+<div class="card">
+<article class="card-body mx-auto" >
+	<h4 class="card-title mt-3 text-center">Payment</h4>
+	<form action="/purchase" method="post">
+    <!-- Email -->
+	<div class="form-group input-group">
+        <input name="userEmail" class="form-control" placeholder="Enter User Email" type="email" required="" autocomplete="off">
+    </div> 
+    <!-- eventName -->
+	<div class="form-group input-group">
+        <input name="eventName" class="form-control" placeholder="Enter Event Name" type="text" required="" autocomplete="off">
+    </div> 
+    <!-- eventVenue -->
+    <div class="form-group input-group">
+        <input name="eventVenue" class="form-control" placeholder="Enter EventVenue" type="text" required="" autocomplete="off">
+    </div>
+    <!-- city  -->
+    <div class="form-group input-group">
+    	<input name="city" class="form-control" placeholder="Enter the City" type="text" required="" autocomplete="off">
+    </div>
+    <!-- Card Number  -->
+    <div class="form-group input-group">
+    	<input  class="form-control" placeholder="Enter Your Card Number" type="text" required="" autocomplete="off">
+    </div>
+    <!-- Expiry  -->
+    <div class="form-group input-group">
+    	<input  class="form-control" placeholder="MM/YY" type="text" required="" autocomplete="off">
+    </div>
+    <div class="form-group input-group">
+    	<input  class="form-control" placeholder="CVV/CVC" type="password" required="" autocomplete="off">
+    </div>
+
+                                   
+    <div class="form-group">
+        <button type="submit" class="btn btn-warning btn-block" name="payment">Pay</button>
+    </div> <!-- form-group// -->                                                                  
+</form>
+</article>
+</div> <!-- card.// -->
+
+</div> 
+
+

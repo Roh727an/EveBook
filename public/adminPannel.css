@@ -1,0 +1,26 @@
+.container{
+display: grid;
+grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  grid-auto-rows: minmax(90px, auto);
+}
+body{
+    background-color: #cde4ea;
+}
+.card{
+    background-color: rgb(183, 231, 255);
+}
+.card-header{
+    background-color: rgb(33, 120, 116);
+}
+.logout{
+    display: flex;
+    justify-content: center;
+    margin-left: 50vw;
+    background-color: rgb(255, 146, 3);
+}
+.logout a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
